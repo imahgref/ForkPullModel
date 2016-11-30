@@ -2,7 +2,8 @@ Fork Pull Model For CSS Team:
 Introduction: 
 [Introduction](http://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/)
 
-Phase 1: Branching 
+Phase 1: Branching:
+
 1. Determine if you should branch off silver or a release branch such as  R12, R13,..Rxx. 
 
 2. Make sure you have the latest information for the branch you going to be branching off. 
