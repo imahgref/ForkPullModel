@@ -1,6 +1,8 @@
 Note  everything is taking place in the directory ./workspace/farmers-css
 
-Fork Pull Model; 
+Fork Pull Model: 
+Introduction: 
+
 Phase 1: 
 Steps to branching. 
 1. Determine if you should branch of silver or a branch of silver such as R12, R13... 
