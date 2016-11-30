@@ -8,7 +8,7 @@ Phase 1: Branching:
 
 2. Make sure you have the latest information for the branch you going to be branching off. 
 
-`git pull origin silver` 
+```git pull origin silver``` 
 
 
 3. Follow forumla for branch name. 
