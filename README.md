@@ -16,10 +16,10 @@ BRANCH_NAME = ORIGIN_BRANCH#RallyTicketID For example
 BRANCH_NAME = silver#78239882476
 
 3. Create the new branch locally
-git checkout -b silver#78239882476
+`git checkout -b silver#78239882476`
 
 4. push the new  branch to the cloud! Push every night before you go home. 
-git push origin silver#78239882476
+`git push origin silver#78239882476`
 
 Phase 2:  Creating A Pull Request. 
 
