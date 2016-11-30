@@ -1,5 +1,3 @@
-Note  everything is taking place in the directory ./workspace/farmers-css
-
 Fork Pull Model For CSS Team: 
 Introduction: 
 [Introduction](http://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/)
